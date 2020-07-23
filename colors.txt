@@ -2,3 +2,7 @@ red
 black
 White
 orange
+black
+silver
+grey
+green
